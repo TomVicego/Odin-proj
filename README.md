@@ -1,2 +1,2 @@
 # Odin-proj
-asdaad123
+HTML training doing a recipes web site.
